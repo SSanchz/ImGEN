@@ -24,6 +24,7 @@ This application uses OpenCV and Android's camera & gallery integration to apply
 
 ![image](https://github.com/user-attachments/assets/7c89452e-56d5-4f38-af67-d1bd646ab0b5)
 
+<img src="https://github.com/user-attachments/assets/e31c9ca6-63fc-49b7-b534-f575134e34ca" width="300" alt="image" />
 
 
 
