@@ -1,4 +1,7 @@
-# ImGEN
+# <img src="https://github.com/user-attachments/assets/8ceaf0bb-dae1-440f-ab1a-0013df564273" width="40" alt="image" /> ImGEN
+
+
+
 Android App to convert raster images (.jpg/.png/...) to Scalable Vector Graphic (SVG) file for laster engraving/cutting processing.
 
 This application uses OpenCV and Android's camera & gallery integration to apply various image processing operations. It allows you to select an image (from gallery or camera), adjust parameters (thresholds, blur kernel size, etc.), and then view the processed image with edges highlighted. You can also invert colors (edges and background) with a single button, and finally export the processed result as an SVG file.
